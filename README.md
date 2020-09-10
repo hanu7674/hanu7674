@@ -3,7 +3,7 @@
 I’m Hanumanth a computer science graduate. My aim to become a successful expert in the field of Information
 Technology by channelizing my technical knowledge and skills to ensure personal and professional growth and
 to contribute to the prosperity of the organization. Assesses risks, troubleshoots problems and conducts tests.
-Excellent communication and planning abilities. Currently looking for opportunities in Data Science, especially
+Excellent communication and planning abilities. Currently looking for opportunities in Web Development , especially
 where my strength in picking up new technologies will be appreciated as well as being able to add value to the
 business and team.
 
