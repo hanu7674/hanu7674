@@ -49,7 +49,7 @@ business and team.
   <tr>
     <td>Python</td>
     <td>Linux and Command Line</td>
-    <td></td>
+    <td>PuttyGen</td>
   </tr>
   <tr>
     <td>SQL</td>
@@ -62,34 +62,3 @@ business and team.
     <td>Tailwind CSS</td>
   </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
