@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=hanu7674&label=PROFILE+VIEWS)
 
 I’m Hanumanth a computer science graduate. My aim to become a successful expert in the field of Information
 Technology by channelizing my technical knowledge and skills to ensure personal and professional growth and
