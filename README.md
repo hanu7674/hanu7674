@@ -61,4 +61,9 @@ business and team.
     <td>JavaScript</td>
     <td>Tailwind CSS</td>
   </tr>
+  <tr>
+    <td>Laravel Frame Work</td>
+    <td>Composer</td>
+    <td>-</td>
+  </tr>
 </table>
