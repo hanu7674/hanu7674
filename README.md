@@ -42,7 +42,7 @@ business and team.
     <td>Microsoft Azure</td>
   </tr>
   <tr>
-    <td>AWS Cloud</td>
+    <td>Laravel FrameWork</td>
     <td>Wordpress</td>
     <td>Google Cloud</td>
   </tr>
@@ -62,8 +62,8 @@ business and team.
     <td>Tailwind CSS</td>
   </tr>
   <tr>
-    <td>Laravel Frame Work</td>
+    <td>AWS Cloud</td>
+    <td>Postman API Client</td>
     <td>Composer</td>
-    <td>-</td>
   </tr>
 </table>
