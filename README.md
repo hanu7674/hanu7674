@@ -69,3 +69,40 @@ business and team.
     <td>Composer</td>
   </tr>
 </table>
+
+#### CERTIFICATIONS
+
+#### PROGRAMMING FOR EVERYBODY(Getting Started With Python)
+![Python for everybody](https://github.com/hanu7674/hanu7674/blob/7c5ac7ce433bc6a2c0af99d1758f72a259026f03/Coursera%20GQSPWDH82XFM.pdf)
+
+https://www.coursera.org/account/accomplishments/certificate/GQSPWDH82XFM
+
+#### Google Technical Support Fundamentals 
+
+![Google Technical Support Fundamentals](https://github.com/hanu7674/hanu7674/blob/e245d93e4e287b7a97838f8d30013740d8647814/google%20Technical%20support%20fundamentals.pdf)
+
+https://www.coursera.org/account/accomplishments/certificate/WH6QWKTL4XE4
+
+#### Web Designing Using React Js
+
+![Web Designing Using React Js](https://github.com/hanu7674/hanu7674/blob/7c5ac7ce433bc6a2c0af99d1758f72a259026f03/LINGALA%20HANUMANTHA%20REDDY%20(1)%20(1).png)
+
+https://drive.google.com/file/d/1yHmGEv7LZ3oqmRZlTAgELebjy6vN6e04/view?usp=sharing
+
+
+##### PROBLEM SOLVING BASIC
+![PROBLEM SOLVING BASIC](https://github.com/hanu7674/hanu7674/blob/e245d93e4e287b7a97838f8d30013740d8647814/problem%20solving(basic).png)
+
+https://www.hackerrank.com/certificates/0ae0b6c24dc0
+
+
+##### PYTHON BASIC
+![PYTHON BASIC](https://github.com/hanu7674/hanu7674/blob/e245d93e4e287b7a97838f8d30013740d8647814/python(basic).png)
+
+https://www.hackerrank.com/certificates/ec4d2d225869
+
+
+##### JAVA BASIC
+![JAVA BASIC](https://github.com/hanu7674/hanu7674/blob/e245d93e4e287b7a97838f8d30013740d8647814/java(Basic).png)
+
+https://www.hackerrank.com/certificates/95df21a53036
