@@ -73,14 +73,12 @@ business and team.
 #### CERTIFICATIONS
 
 #### PROGRAMMING FOR EVERYBODY(Getting Started With Python)
-![Python for everybody](https://github.com/hanu7674/hanu7674/blob/7c5ac7ce433bc6a2c0af99d1758f72a259026f03/Coursera%20GQSPWDH82XFM.pdf)
-
+![Python for everybody](https://github.com/hanu7674/hanu7674/blob/d519ffa2cd7806879726f92c0b3a0de2ee084b78/python%20for%20everybody.jpg)
 https://www.coursera.org/account/accomplishments/certificate/GQSPWDH82XFM
 
 #### Google Technical Support Fundamentals 
 
-![Google Technical Support Fundamentals](https://github.com/hanu7674/hanu7674/blob/e245d93e4e287b7a97838f8d30013740d8647814/google%20Technical%20support%20fundamentals.pdf)
-
+![Google Technical Support Fundamentals](https://github.com/hanu7674/hanu7674/blob/d519ffa2cd7806879726f92c0b3a0de2ee084b78/google%20support%20fundamentals.jpg)
 https://www.coursera.org/account/accomplishments/certificate/WH6QWKTL4XE4
 
 #### Web Designing Using React Js
