@@ -10,7 +10,7 @@ business and team.
 
 <h3>CONTACT ME</h3>
 <p align="center">
-<a href="https://twitter.com/hanu7674" rel="nofollow"><img src="https://img.icons8.com/ios/48/000000/twitter--v1.png"/></a>
+<a href="https://twitter.com/hanu7674" rel="nofollow"><<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hanu7674" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/hanu7674" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/609be48e654a9c8aed1660c2596b04f09ed13aee/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="hanu7674" height="30" width="30" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;"></a>
 <a href="https://stackoverflow.com/users/user:9997545" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/b7831cdd2eb45218d9831ba9ebfc80700ddcbb06/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f737461636b6f766572666c6f772e737667" alt="hanu7674" height="30" width="30" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" style="max-width:100%;"></a>
 <a href="https://instagram.com/hanu7674" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/6a7303cd751618218ce00026d1f25a3dd1461ea6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f696e7374616772616d2e737667" alt="hanu7674" height="30" width="30" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;"></a>
