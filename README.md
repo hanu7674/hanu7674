@@ -76,6 +76,11 @@ business and team.
 ![Python for everybody](https://github.com/hanu7674/hanu7674/blob/d519ffa2cd7806879726f92c0b3a0de2ee084b78/python%20for%20everybody.jpg)
 https://www.coursera.org/account/accomplishments/certificate/GQSPWDH82XFM
 
+#### Advanced proficiency in Javascript
+![Advanced proficiency in Javascript](https://github.com/hanu7674/hanu7674/blob/master/Advanced%20proficiency%20in%20Javascript.jpg)
+https://cutshort.io/certificate/45275
+
+
 #### Google Technical Support Fundamentals 
 
 ![Google Technical Support Fundamentals](https://github.com/hanu7674/hanu7674/blob/d519ffa2cd7806879726f92c0b3a0de2ee084b78/google%20support%20fundamentals.jpg)
